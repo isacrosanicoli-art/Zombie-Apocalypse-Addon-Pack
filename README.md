@@ -18,6 +18,7 @@ O pack foi projetado para ser extremamente difícil. Os zumbis continuam evoluin
 A experiência recomendada é SOLO e HARDCORE.
 
 INSTALAÇÃO
+Importe todos os addons para o seu Minecraft.
 Crie um NOVO mundo completamente sem addons.
 Entre no mundo e NÃO SE MOVA. Apenas olhe ao redor por alguns segundos para permitir que as chunks próximas sejam carregadas.
 Saia do mundo.
@@ -100,6 +101,7 @@ The pack is designed to be extremely difficult. Zombies continue evolving throug
 SOLO and HARDCORE are strongly recommended.
 
 INSTALLATION
+Import all add-ons into your Minecraft.
 Create a NEW world with absolutely no addons.
 Enter the world and DO NOT MOVE. Simply look around for a few seconds to allow nearby chunks to load.
 Leave the world.
