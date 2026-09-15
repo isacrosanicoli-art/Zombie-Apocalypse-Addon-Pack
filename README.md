@@ -6,9 +6,9 @@ SOBRE O PACK
 
 Um pack de sobrevivência em um apocalipse zumbi, com:
 
-Armas realistas
-Zumbis evolutivos
-Configurações personalizáveis dos zumbis
+Armas realistas -
+Zumbis evolutivos -
+Configurações personalizáveis dos zumbis -
 Cidades abandonadas
 Sistema de infecção
 Novas estruturas, equipamentos e sistemas de sobrevivência
