@@ -1,7 +1,7 @@
 # Zombie-Apocalypse---Addon-Pack
 A hardcore Minecraft Bedrock zombie apocalypse survival pack with realistic weapons, evolving zombies, abandoned cities and an infection system.
 
-PT-BR
+PT-BR -
 SOBRE O PACK
 
 Um pack de sobrevivência em um apocalipse zumbi, com:
@@ -11,13 +11,13 @@ Zumbis evolutivos -
 Configurações personalizáveis dos zumbis -
 Cidades abandonadas -
 Sistema de infecção -
-Novas estruturas, equipamentos e sistemas de sobrevivência -
+Novas estruturas, equipamentos e sistemas de sobrevivência 
 
 O pack foi projetado para ser extremamente difícil. Os zumbis continuam evoluindo ao longo dos primeiros 100 dias, tornando a sobrevivência cada vez mais difícil.
 
 A experiência recomendada é SOLO e HARDCORE.
 
-INSTALAÇÃO
+INSTALAÇÃO -
 Importe todos os addons para o seu Minecraft.
 Crie um NOVO mundo completamente sem addons.
 Entre no mundo e NÃO SE MOVA. Apenas olhe ao redor por alguns segundos para permitir que as chunks próximas sejam carregadas.
@@ -25,14 +25,13 @@ Saia do mundo.
 Adicione todos os Behavior Packs e Resource Packs do pack.
 SIGA RESTRITAMENTE A ORDEM DOS BEHAVIOR PACKS E RESOURCE PACKS.
 
-Os prints mostrando a ordem correta estão no arquivo:
+Os prints mostrando a ordem correta estão no arquivo: 
 
 order-addons.zip
 
 NÃO altere a ordem dos packs. A ordem é necessária para evitar conflitos, substituições incorretas e problemas de funcionamento entre os addons.
 
-EXPERIMENTOS
-
+EXPERIMENTOS -
 Ative os experimentos necessários para o funcionamento dos addons.
 
 Ative apenas recursos experimentais relacionados ao funcionamento/criação de Add-Ons, como Creator Features / Beta APIs quando exigidos.
@@ -41,22 +40,22 @@ NÃO ative recursos Beta/Preview do próprio Minecraft que estejam em desenvolvi
 
 As opções disponíveis podem mudar dependendo da versão do Minecraft Bedrock.
 
-OTIMIZAÇÃO E COMPATIBILIDADE
+OTIMIZAÇÃO E COMPATIBILIDADE -
 
-NÃO é recomendado utilizar shaders ou Resource Packs que alterem significativamente a iluminação/renderização do jogo.
+NÃO é recomendado utilizar shaders ou Resource Packs que alterem significativamente a iluminação/renderização do jogo. 
 
 Evite efeitos como:
 
-Reflexos avançados na água
-Iluminação dinâmica
-Raios de luz atravessando árvores
-Outros efeitos avançados de iluminação
+Reflexos avançados na água -
+Iluminação dinâmica -
+Raios de luz atravessando árvores -
+Outros efeitos avançados de iluminação -
 
 Esses efeitos podem causar bugs visuais nas armas, fazendo com que elas desapareçam da mão do jogador. O problema é apenas visual, mas pode atrapalhar bastante a gameplay.
 
 Para testar shaders, recomenda-se utilizar apenas os shaders nativos do Minecraft Bedrock.
 
-DESEMPENHO
+DESEMPENHO -
 
 Este pack possui muitos sistemas, entidades, scripts, estruturas e mecânicas funcionando simultaneamente.
 
@@ -74,7 +73,7 @@ Frame Pacing: Desativado
 
 Mesmo com essa configuração, podem ocorrer stutters e quedas de FPS dependendo da situação e da quantidade de conteúdo carregado.
 
-DIFICULDADE
+DIFICULDADE -
 
 Este pack NÃO foi feito para uma experiência casual.
 
@@ -84,23 +83,23 @@ SOLO + HARDCORE é a experiência recomendada.
 
 ==================================================
 
-ENGLISH
+ENGLISH -
 ABOUT THE PACK
 
 A zombie apocalypse survival pack featuring:
 
-Realistic weapons
-Evolving zombies
-Customizable zombie settings
-Abandoned cities
-Infection system
+Realistic weapons -
+Evolving zombies -
+Customizable zombie settings -
+Abandoned cities -
+Infection system -
 New structures, equipment and survival systems
 
 The pack is designed to be extremely difficult. Zombies continue evolving throughout the first 100 days, making survival progressively harder.
 
 SOLO and HARDCORE are strongly recommended.
 
-INSTALLATION
+INSTALLATION -
 Import all add-ons into your Minecraft.
 Create a NEW world with absolutely no addons.
 Enter the world and DO NOT MOVE. Simply look around for a few seconds to allow nearby chunks to load.
@@ -108,13 +107,13 @@ Leave the world.
 Add all Behavior Packs and Resource Packs from the pack.
 FOLLOW THE BEHAVIOR PACK AND RESOURCE PACK ORDER STRICTLY.
 
-Screenshots showing the correct order are included in:
+Screenshots showing the correct order are included in: 
 
 order-addons.zip
 
 DO NOT change the order of the packs. The order is required to prevent conflicts, incorrect overrides, and compatibility issues between addons.
 
-EXPERIMENTS
+EXPERIMENTS -
 
 Enable the experiments required for the addons to work.
 
@@ -124,9 +123,9 @@ DO NOT enable Minecraft Beta/Preview features that are still under development u
 
 Available experiment options may change depending on the Minecraft Bedrock version.
 
-OPTIMIZATION AND COMPATIBILITY
+OPTIMIZATION AND COMPATIBILITY -
 
-Shaders or Resource Packs that significantly modify the game's lighting/rendering are NOT recommended.
+Shaders or Resource Packs that significantly modify the game's lighting/rendering are NOT recommended. 
 
 Avoid effects such as:
 
@@ -139,7 +138,7 @@ These effects can cause visual bugs with the weapons, making them disappear from
 
 For shader testing, use only Minecraft Bedrock's native shaders.
 
-PERFORMANCE
+PERFORMANCE -
 
 This pack contains many systems, entities, scripts, structures and mechanics running simultaneously.
 
@@ -157,7 +156,7 @@ Frame Pacing: Disabled
 
 Even with these settings, stuttering and FPS drops may occur depending on the situation and the amount of content being loaded.
 
-DIFFICULTY
+DIFFICULTY -
 
 This pack is NOT designed to be a casual experience.
 
