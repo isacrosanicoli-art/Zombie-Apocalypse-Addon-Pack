@@ -9,9 +9,9 @@ Um pack de sobrevivência em um apocalipse zumbi, com:
 Armas realistas -
 Zumbis evolutivos -
 Configurações personalizáveis dos zumbis -
-Cidades abandonadas
-Sistema de infecção
-Novas estruturas, equipamentos e sistemas de sobrevivência
+Cidades abandonadas -
+Sistema de infecção -
+Novas estruturas, equipamentos e sistemas de sobrevivência -
 
 O pack foi projetado para ser extremamente difícil. Os zumbis continuam evoluindo ao longo dos primeiros 100 dias, tornando a sobrevivência cada vez mais difícil.
 
